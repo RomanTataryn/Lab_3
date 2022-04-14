@@ -1,11 +1,14 @@
 package ua.lviv.Iot.Lab_3;
 
+<<<<<<< HEAD
 import ua.lviv.Iot.Lab_3.manager.Comparators;
 import ua.lviv.Iot.Lab_3.model.Bus;
 import ua.lviv.Iot.Lab_3.model.Car;
 import ua.lviv.Iot.Lab_3.model.Standart;
 import ua.lviv.Iot.Lab_3.model.Truck;
 
+=======
+>>>>>>> origin/Lab_3
 import java.util.ArrayList;
 
 public class Main {
