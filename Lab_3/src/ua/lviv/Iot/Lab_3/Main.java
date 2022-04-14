@@ -1,14 +1,14 @@
 package ua.lviv.Iot.Lab_3;
 
-<<<<<<< HEAD
+
 import ua.lviv.Iot.Lab_3.manager.Comparators;
 import ua.lviv.Iot.Lab_3.model.Bus;
 import ua.lviv.Iot.Lab_3.model.Car;
 import ua.lviv.Iot.Lab_3.model.Standart;
 import ua.lviv.Iot.Lab_3.model.Truck;
 
-=======
->>>>>>> origin/Lab_3
+
+
 import java.util.ArrayList;
 
 public class Main {
@@ -54,8 +54,8 @@ public class Main {
 //        System.out.println("Sorted price:");
 //
      ArrayList<Car> UsedCars = new ArrayList<>();
-        UsedCars.add(Truck1);
-        UsedCars.add(Truck2);
+  //      UsedCars.add(Truck1);
+    //    UsedCars.add(Truck2);
         UsedCars.add(Truck3);
         UsedCars.add(Bus1);
 //        UsedCars.add(Bus2);
